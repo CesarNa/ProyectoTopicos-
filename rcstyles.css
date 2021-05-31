@@ -1,0 +1,99 @@
+.f{
+    float: left;
+}
+
+.iniciarsesion{
+    margin-left: 30px;
+}
+.inputsearch{
+    border-radius: 20px;
+}
+.login{
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+}
+.register{
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+}
+
+.form{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+    margin-top: 50px;
+    background: rgba(0,0,0,0.9);
+    width: 345px;
+    height: 350px;
+    border-radius: 25px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 25px 30px;
+}
+.form1{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+    margin-top: 50px;
+    background: rgba(0,0,0,0.9);
+    width: 345px;
+    height: 440px;
+    border-radius: 25px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 25px 30px;
+}
+.contenedor p{
+    color: #FFFFFF;
+}
+.contenedor input{
+    border-radius: 9px;
+    height: 30px;
+    width: 225px;
+}
+.input-group{
+    margin-left: 27px;
+    margin-right: 90px;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    align-content: center;
+    border-radius: 9;
+    height: 30px;
+    width: 75px;
+}
+.input-group .myo{
+    font-size: 12px;
+    height: 30px;
+    width: 54px;
+}
+.input-groupl{
+    margin-left: 27px;
+    margin-right: 90px;
+    display: flex;
+    border-radius: 9;
+    height: 30px;
+    width: 48px;
+}
+.input-groupl .myo{
+    font-size: 12px;
+    height: 30px;
+    width: 54px;
+}
+.tituloform{
+    text-align: center;
+    color: #FFFFFF;
+}

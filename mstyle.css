@@ -1,0 +1,174 @@
+*{margin: 0; padding: 0; background: rgb(0, 0, 0);}
+
+
+.Titutlo{
+    text-align: center;
+    width: 100%;
+}
+.t2{
+    width: 100%;
+    display: flex;
+    padding: 0px 5% 5px 5%;
+
+}
+#tte{
+    font-family: AR BONNIE;
+    color: rgb(255, 0, 212);
+    align-items: center;
+    flex-direction: column;
+    width: 30%;
+    font-size: 35px;
+}
+.img1{
+    width: 30%;
+    height: 150px;
+    margin: 0px;
+    padding: 0px;
+    align-items: left;
+}
+.img2{
+    width: 30%;
+    height: 150px;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;  
+    font-family: fantasy;
+    margin: 2px;
+}
+nav{
+    background: #ffff ;
+}
+.menu{
+    background: #fff  ;
+    margin: auto; 
+    width: 80%;
+    height: 40px;
+}
+.C1{
+    background: #fff  ;
+}
+.menu a{
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 5px;
+    width: 25px;
+    font-size: 20px;
+    list-style: none;
+    text-emphasis: none;
+    text-decoration: none;
+}
+
+.menu a:hover{
+    background: #424949;
+    color: #AEB6BF ;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+/********************************************Encabezado*********************************************************************/
+.ContInfo{
+    margin: auto;
+    width: 95%;
+    
+
+}
+
+.Text1{
+    color: #ffff;
+    text-align: center;
+    margin: auto;
+}
+.cont{
+    display: flex;
+    align-items: center;
+}
+.topo{
+    width: 50%;
+    height: 450px;
+    margin: auto;
+}
+.tx2{
+    color: #fff;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+.tx3{
+    width: 40%;
+    
+}
+.voidc{
+    display: flex;
+    
+}
+.void{
+    width: 125px;
+    height: 200px;
+}
+.voidt{
+    list-style: none;
+    text-emphasis: none;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;/*******************************/
+    padding: -20px;
+    color: #fff;
+}
+/******************************************************************parte 2*******************************************************************************/
+.prt2{
+    width: 95%;
+
+    margin: auto;
+    text-align: center;
+}
+.Muertos{
+    width: 30%;
+    height: 450px;
+}
+.txmuertos{
+    color: #fff;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    list-style: none;
+    text-emphasis: none;
+    text-decoration: none;
+}
+.tex6-7{
+        display: flex;
+        margin: auto;
+}
+.t6{
+    display: flex;
+    margin: auto;
+}
+.p1{
+    width: 300px;
+    height: 250px;
+    margin: auto;
+}
+.p2{
+    color: #fff;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    list-style: none;
+    text-emphasis: none;
+    text-decoration: none;
+}
+.tex8-9{
+    display: flex;
+    margin: auto;
+}
+.t8{
+    display: flex;
+    margin: auto;
+}
+
+
